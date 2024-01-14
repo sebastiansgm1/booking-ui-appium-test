@@ -58,6 +58,12 @@ Este proyeto esta parametrizado para ejecutarse desde github actions y conectars
 saucelabs para soportar la ejecución en un dispositivo movil cloud,
 para ver los resultados puede ir a la pagina de saucelabs y loguearse con el correo
 sebastiansgm1@gmail.com y la contraseña Yape2024*
+La cuenta saucelabs es un trial y los minutos de ejecución son limitados, todo esto se 
+configuro para efectos de la prueba
+
+## Reportes
+Puede consultar los reportes en la ruta target/site/serenity/index.html
+Cuando se ejecuta en github actions el reporte queda descargable en un zip
 
 
 
