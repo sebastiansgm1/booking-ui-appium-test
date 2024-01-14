@@ -16,12 +16,12 @@ de informacion personal y monto total
 
 ## Stack tecnologico
 
-* Version de Java: 8
+* Version de Java: 11
 * Gestor de paquetes: Gradle
 * Serenity framework + Cucumber + Appium
 * Arnes de pruebas: Junit
 * Patrón de automatizacion: Action class
-* 
+* Version de appium: 2.1.3
 
 ## Instalación y preparación de ambiente
 
