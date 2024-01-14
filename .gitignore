@@ -18,4 +18,3 @@ saucelabs.properties
 !/.mvn/wrapper/maven-wrapper.jar
 .DS_Store
 *.mp4
-serenity.properties
