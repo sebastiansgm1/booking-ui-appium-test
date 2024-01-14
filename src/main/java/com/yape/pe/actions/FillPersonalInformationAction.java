@@ -42,6 +42,7 @@ public class FillPersonalInformationAction extends UIInteractions {
     $(ET_CITY).sendKeys(personalInformation.getCity());
     typeInto($(ET_COUNTRY), personalInformation.getCountry());
     $(ET_MOBILE).sendKeys(personalInformation.getMobile());
+    generalPageObject.scrollDown(1);
     selectTripType(personalInformation.getTripReason());
     String totalPersonalInformation = $(TV_TOTAL).getText().substring(2);
     Serenity.setSessionVariable(SESSION_TOTAL_PERSONAL_INFORMATION.getVariableName())
