@@ -10,9 +10,16 @@ La prueba esta orientada a la app Booking.com
 * Se planteo un flujo E2E desde un feature BDD parametrizable con tablas entre los steps para cambiar facilmente la data de prueba y evaluar diferentes escenarios
 
 ## Plan de pruebas
+
+* Alcance de las pruebas:
+
 Se plantean varias pruebas con el fin de lograr una buena cobertura, las pruebas planteadas son:
 Escenario E2E de validación de reserva exitosa, para fines de la prueba se completa el flujo y se evalua mediante una soft assertion los datos
 de informacion personal y monto total
+
+* Tipos de prueba:
+Prueba funcional E2E
+
 
 ## Stack tecnologico
 
