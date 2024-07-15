@@ -1,6 +1,5 @@
 
-# Proyecto de automatizacion de pruebas de UI YAPE
-Este es el reto de automatización de pruebas de API de YAPE
+# Proyecto de automatizacion de pruebas de UI
 
 ## Autor: Sebastian Galeano Molina / Senior QA Automation
 La prueba esta orientada a la app Booking.com
